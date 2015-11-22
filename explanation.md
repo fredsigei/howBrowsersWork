@@ -1,0 +1,1 @@
+<h1><b>Simple explanantion on how browsers work</b></h1>
