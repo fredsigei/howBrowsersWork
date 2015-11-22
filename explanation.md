@@ -1,1 +1,0 @@
-A simple explanition on how browsers work
